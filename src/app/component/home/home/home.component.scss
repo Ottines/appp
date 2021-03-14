@@ -1,0 +1,41 @@
+.content {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.content-item {
+    padding-right: 5%;
+    padding-left: 5%;
+    min-height:570px !important;
+}
+.content-item p:last-child {
+    margin-bottom: 0;
+}
+.white-translucent-bg { background-color: rgba(255,255,255, 0.8); }
+.black-translucent-bg { background-color: rgba(0,0,0,0.65); }
+.blue-translucent-bg { background-color: rgba(9, 105, 196, 0.7); }
+.services-section-padding { padding-bottom: 100px; }
+
+.logo-box {
+    text-align: center;
+    padding-top: 140px;
+}
+.white-text { color: #FFFFFF; }
+
+.float-section { position: relative; }
+.float-section-body {
+    position: absolute;
+    top: 80px;
+    width: 85%;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+}
+
+.fa-icon {
+    margin-bottom: 50px;
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+}
